@@ -28,7 +28,7 @@ url: "https://WiJoinCO.github.io" # the base hostname & protocol for your site, 
 github_username:  WiJoinCO
 
 # Build settings
-remote_theme: ankitsultana/researcher@gem
+theme: minima
 plugins:
 - jekyll-feed
 
