@@ -6,5 +6,4 @@ layout: default
 title: Home
 ---
 
-Ph.D Student in Environmental Engineering - CU Boulder  
-Creative Microbial Bio-Maintenance for Greener Environments and Municipalities Laboratory
+Member of the Creative Microbial Bio-Maintenance for Greener Environments and Municipalities Laboratory
