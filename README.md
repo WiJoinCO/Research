@@ -1,2 +1,2 @@
 # Research github pages site
-https://wijoinco.github.io/research/
+https://wijoinco.github.io
