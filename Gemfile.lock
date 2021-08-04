@@ -229,6 +229,7 @@ DEPENDENCIES
   github-pages (~> 217)
   jekyll (~> 3.9.0)
   jekyll-feed (~> 0.12)
+  jekyll-include-cache
   jekyll-seo-tag
   minimal-mistakes-jekyll
   tzinfo (~> 1.2)
