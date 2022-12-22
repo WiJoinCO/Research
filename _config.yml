@@ -28,7 +28,7 @@ title_separator          : "-"
 subtitle                 : In the Creative Microbial Bio-Maintenance for Greener Environments and Municipalities Laboratory # site tagline that appears below site title in masthead
 name                     : "William J. Johnson"
 description              : "Research portfolio and interests"
-url                      : "https://WiJoinCO.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://williamjjohnson.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : williamjjohnson/williamjjohnson.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
