@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "mint" #"default", "aqua", "air", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" #"default", "aqua", "air", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -30,7 +30,7 @@ name                     : "William J. Johnson"
 description              : "Research portfolio and interests"
 url                      : "https://WiJoinCO.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : WiJoinCO/WiJoinCO.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : williamjjohnson/williamjjohnson.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # /assets/img/profile_picture.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -85,7 +85,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : # @WaterWithWill
 facebook:
   username               :
   app_id                 :
@@ -128,7 +128,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: # "https://github.com/wijoinco/"
+      url: # "https://github.com/williamjjohnson/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
