@@ -8,7 +8,7 @@ title: false
 ---
 
 
-## Hi
+## Welcome
 
-My name is William. I'm a second year PhD student at CU Boulder, and I've made this website to share my thoughts
+I'm a second year PhD student at CU Boulder, doing research in the Creative-Microbial Bio Maintenance for Greener Environments and Muncipalities lab at CU Boulder. I've created this website so that I can have a place to share what I'm working on and thinking about.
 
